@@ -1,0 +1,209 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.cc</groupId>
+  <artifactId>test.shared</artifactId>
+  <version>0.0.1-SNAPSHOT</version>
+  <packaging>jar</packaging>
+  
+  <name>test.shared</name>
+  <url>http://maven.apache.org</url>
+  
+  <properties>
+  	  <project.bulid.sourceEncoding>UTF-8</project.bulid.sourceEncoding>
+	  <aspectj.version>1.8.13</aspectj.version>
+	  <suiteXmlFile>src/test/resources/suite/test-moudle/testng.xml</suiteXmlFile>
+  </properties>
+  
+  <dependencies>
+	  <dependency>
+		  <groupId>io.qameta.allure</groupId>
+		  <artifactId>allure-testng</artifactId>
+		  <version>2.6.0</version>
+		  <scope>test</scope>
+	  </dependency>
+	  <dependency>
+		  <groupId>org.aspectj</groupId>
+		  <artifactId>aspectjweaver</artifactId>
+		  <version>${aspectj.version}</version>
+	  </dependency>
+  		<dependency>
+  			<groupId>org.testng</groupId>
+  			<artifactId>testng</artifactId>
+  			<version>6.8.7</version>
+  			<scope>test</scope>
+  		</dependency>
+  		<dependency>
+  			<groupId>org.seleniumhq.selenium</groupId>
+  			<artifactId>selenium-java</artifactId>
+  			<version>2.53.1</version>
+  		</dependency>
+	  <dependency>
+		  <groupId>org.seleniumhq.selenium</groupId>
+		  <artifactId>selenium-chrome-driver</artifactId>
+		  <version>2.53.1</version>
+	  </dependency>
+  		<dependency>
+  			<groupId>com.github.detro</groupId>
+  			<artifactId>phantomjsdriver</artifactId>
+  			<version>1.2.0</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>log4j</groupId>
+  			<artifactId>log4j</artifactId>
+  			<version>1.2.9</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>javax.mail</groupId>
+  			<artifactId>mail</artifactId>
+  			<version>1.4.7</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>org.springframework</groupId>
+  			<artifactId>spring-context</artifactId>
+  			<version>4.0.2.RELEASE</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>org.springframework</groupId>
+  			<artifactId>spring-jdbc</artifactId>
+  			<version>4.0.2.RELEASE</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>org.springframework</groupId>
+  			<artifactId>spring-tx</artifactId>
+  			<version>4.0.2.RELEASE</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>org.apache.ws.security</groupId>
+  			<artifactId>wss4j</artifactId>
+  			<version>1.5.6</version>
+  		</dependency>
+  		<!-- <dependency>
+  			<groupId>org.microsoft.sqlserver</groupId>
+  			<artifactId>sqljdbc4</artifactId>
+  			<version>4.0</version>
+  			<scope>system</scope>
+  			<systemPath>${project.basedir}/lib/sqljdbc4-4.0.jar</systemPath>
+  		</dependency> -->
+  		<dependency>
+  			<groupId>commons-dbcp</groupId>
+  			<artifactId>commons-dbcp</artifactId>
+  			<version>1.4</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>org.apache.poi</groupId>
+  			<artifactId>poi</artifactId>
+  			<version>3.17</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>org.apache.poi</groupId>
+  			<artifactId>poi-ooxml</artifactId>
+  			<version>3.17</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>org.apache.poi</groupId>
+  			<artifactId>poi-ooxml-schemas</artifactId>
+  			<version>3.17</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>xml-apis</groupId>
+  			<artifactId>xml-apis</artifactId>
+  			<version>1.4.01</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>backport-util-concurrent</groupId>
+  			<artifactId>backport-util-concurrent</artifactId>
+  			<version>3.1</version>
+  		</dependency>
+  		<!-- <dependency>
+  			<groupId>com.cc</groupId>	
+  			<artifactId>pbqa.report</artifactId>
+  			<version>0.0.1</version>
+  			<scope>system</scope>
+  			<systemPath>${project.basedir}/lib/pbqa.report-0.0.1-SNAPSHOT.jar</systemPath>
+  		</dependency> -->
+  		<dependency>
+  			<groupId>com.google.code.gson</groupId>
+  			<artifactId>gson</artifactId>
+  			<version>2.7</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>com.fasterxml.jackson.core</groupId>
+  			<artifactId>jackson-databind</artifactId>
+  			<version>2.8.0</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>com.fasterxml.jackson.core</groupId>
+  			<artifactId>jackson-core</artifactId>
+  			<version>2.8.0</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>com.fasterxml.jackson.core</groupId>
+  			<artifactId>jackson-annotations</artifactId>
+  			<version>2.8.0</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>com.fasterxml.jackson.dataformat</groupId>
+  			<artifactId>jackson-dataformat-csv</artifactId>
+  			<version>2.8.6</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>commons-lang</groupId>
+  			<artifactId>commons-lang</artifactId>
+  			<version>2.6</version>
+  		</dependency>
+  		<dependency>
+  			<groupId>org.apache.commons</groupId>
+  			<artifactId>commons-csv</artifactId>
+  			<version>1.5</version>
+  		</dependency>
+  		
+  		
+  </dependencies>
+  
+
+  
+  <build>
+  		<plugins>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-compiler-plugin</artifactId>
+				<version>3.5.1</version>
+				<configuration>
+					<source>1.8</source>
+					<target>1.8</target>
+				</configuration>
+			</plugin>
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>2.20</version>
+				<configuration>
+					<!--设置参数命令行-->
+					<argLine>
+						-javaagent:"${settings.localRepository}/org/aspectj/aspectjweaver/${aspectj.version}/aspectjweaver-${aspectj.version}.jar"
+					</argLine>
+					<systemPropertyVariables>
+						<!--是否忽略html，解释见下图。与之后在reportNg报告上显示截图相关。当前已经使用allure了，这里可以直接去掉啦-->
+						<org.uncommons.reportng.escape-output>false</org.uncommons.reportng.escape-output>
+					</systemPropertyVariables>
+					<!--测试失败后，是否忽略并继续测试-->
+					<testFailureIgnore>true</testFailureIgnore>
+					<argLine>
+						-Dfile.encoding=UTF-8
+					</argLine>
+
+					<suiteXmlFiles>
+						<!--代表的是要执行的测试套件名称-->
+						<suiteXmlFile>src/test/resources/testNG.xml</suiteXmlFile>
+					</suiteXmlFiles>
+
+				</configuration>
+
+
+			</plugin>
+  		</plugins>
+  </build>
+  
+  
+  
+</project>

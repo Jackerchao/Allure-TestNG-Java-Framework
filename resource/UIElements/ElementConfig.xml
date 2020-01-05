@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Elements>
+	<Area Name="LoginPage">
+		<Section Name="Login">
+			<Element Name="User" FindBy="id" Locator="userId" />
+			<Element Name="password" FindBy="id" Locator="password" />
+			<Element Name="login" FindBy="xpath" Locator="//*[@id = 'search']/option[1]" />
+		</Section>
+	</Area>
+</Elements>

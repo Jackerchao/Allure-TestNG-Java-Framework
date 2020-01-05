@@ -1,0 +1,478 @@
+2019-12-19 19:29:58 INFO  Logging:20 - Automation testing start
+2019-12-19 19:29:58 INFO  Logging:20 - runId=null
+2019-12-19 19:29:58 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-19 19:29:58 INFO  Logging:20 - Project inin() -- End
+2019-12-19 19:29:58 INFO  Logging:20 - Prepare test data:Output Log\resoure/TestCase/TestCase_201912191929058.xlsx
+2019-12-19 19:29:58 ERROR Logging:36 - Output Log\resoure\TestCase\TestCase_201912191929058.xlsx (系统找不到指定的路径。)
+2019-12-19 19:36:48 INFO  Logging:20 - Automation testing start
+2019-12-19 19:36:48 INFO  Logging:20 - runId=null
+2019-12-19 19:36:48 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-19 19:36:48 INFO  Logging:20 - Project inin() -- End
+2019-12-19 19:36:48 INFO  Logging:20 - Prepare test data:Output Log\resoure/TestCase/TestCase_201912191936048.xlsx
+2019-12-19 19:36:48 ERROR Logging:36 - Output Log\resoure\TestCase\TestCase_201912191936048.xlsx (系统找不到指定的路径。)
+2019-12-20 21:48:32 INFO  Logging:20 - Automation testing start
+2019-12-20 21:48:32 INFO  Logging:20 - runId=null
+2019-12-20 21:48:32 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 21:48:32 INFO  Logging:20 - Project inin() -- End
+2019-12-20 21:48:32 INFO  Logging:20 - Prepare test data:Output Log\resoure/TestCase/TestCase_201912202148032.xlsx
+2019-12-20 21:48:33 ERROR Logging:36 - Output Log\resoure\TestCase\TestCase_201912202148032.xlsx (系统找不到指定的路径。)
+2019-12-20 21:49:10 INFO  Logging:20 - Automation testing start
+2019-12-20 21:49:10 INFO  Logging:20 - runId=null
+2019-12-20 21:49:10 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 21:49:10 INFO  Logging:20 - Project inin() -- End
+2019-12-20 21:49:10 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202149010.xlsx
+2019-12-20 21:49:10 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202149010.xlsx is copied
+2019-12-20 21:49:11 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 21:49:11 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 21:49:11 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 21:49:11 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 21:51:19 INFO  Logging:20 - Automation testing start
+2019-12-20 21:51:19 INFO  Logging:20 - runId=null
+2019-12-20 21:51:19 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 21:51:19 INFO  Logging:20 - Project inin() -- End
+2019-12-20 21:51:19 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202151019.xlsx
+2019-12-20 21:51:19 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202151019.xlsx is copied
+2019-12-20 21:51:20 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 21:51:53 INFO  Logging:20 - Automation testing start
+2019-12-20 21:51:53 INFO  Logging:20 - runId=null
+2019-12-20 21:51:53 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 21:51:53 INFO  Logging:20 - Project inin() -- End
+2019-12-20 21:51:53 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202151053.xlsx
+2019-12-20 21:51:53 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202151053.xlsx is copied
+2019-12-20 21:54:12 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 21:54:39 INFO  Logging:20 - Automation testing start
+2019-12-20 21:54:39 INFO  Logging:20 - runId=null
+2019-12-20 21:54:39 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 21:54:39 INFO  Logging:20 - Project inin() -- End
+2019-12-20 21:54:39 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202154039.xlsx
+2019-12-20 21:54:39 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202154039.xlsx is copied
+2019-12-20 21:59:58 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 22:00:05 INFO  Logging:20 - Automation testing start
+2019-12-20 22:00:05 INFO  Logging:20 - runId=null
+2019-12-20 22:00:05 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:00:05 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:00:05 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202200005.xlsx
+2019-12-20 22:00:05 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202200005.xlsx is copied
+2019-12-20 22:04:21 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 22:04:26 INFO  Logging:20 - Automation testing start
+2019-12-20 22:04:26 INFO  Logging:20 - runId=null
+2019-12-20 22:04:26 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:04:26 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:04:26 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202204026.xlsx
+2019-12-20 22:04:26 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202204026.xlsx is copied
+2019-12-20 22:04:57 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 22:05:03 INFO  Logging:20 - Automation testing start
+2019-12-20 22:05:03 INFO  Logging:20 - runId=null
+2019-12-20 22:05:03 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:05:03 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:05:03 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202205003.xlsx
+2019-12-20 22:05:03 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202205003.xlsx is copied
+2019-12-20 22:05:51 INFO  Logging:20 - Automation testing start
+2019-12-20 22:05:51 INFO  Logging:20 - runId=null
+2019-12-20 22:05:51 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:05:51 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:05:51 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202205051.xlsx
+2019-12-20 22:05:51 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202205051.xlsx is copied
+2019-12-20 22:05:54 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 22:06:00 INFO  Logging:20 - Automation testing start
+2019-12-20 22:06:00 INFO  Logging:20 - runId=null
+2019-12-20 22:06:00 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:06:00 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:06:00 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202206000.xlsx
+2019-12-20 22:06:00 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202206000.xlsx is copied
+2019-12-20 22:06:12 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 22:06:43 INFO  Logging:20 - Automation testing start
+2019-12-20 22:06:43 INFO  Logging:20 - runId=null
+2019-12-20 22:06:43 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:06:43 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:06:43 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202206043.xlsx
+2019-12-20 22:06:43 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202206043.xlsx is copied
+2019-12-20 22:13:48 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 22:14:06 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 22:24:44 INFO  Logging:20 - Automation testing start
+2019-12-20 22:24:44 INFO  Logging:20 - runId=null
+2019-12-20 22:24:44 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:24:44 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:24:44 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202224044.xlsx
+2019-12-20 22:24:44 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202224044.xlsx is copied
+2019-12-20 22:24:45 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 22:25:47 INFO  Logging:20 - Automation testing start
+2019-12-20 22:25:47 INFO  Logging:20 - runId=null
+2019-12-20 22:25:47 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:25:47 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:25:47 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202225047.xlsx
+2019-12-20 22:25:47 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202225047.xlsx is copied
+2019-12-20 22:30:18 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 22:31:24 INFO  Logging:20 - Automation testing start
+2019-12-20 22:31:24 INFO  Logging:20 - runId=null
+2019-12-20 22:31:24 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:31:24 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:31:24 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202231024.xlsx
+2019-12-20 22:31:24 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202231024.xlsx is copied
+2019-12-20 22:31:25 ERROR Logging:36 - Test case failed with exception -null
+2019-12-20 22:33:06 INFO  Logging:20 - Automation testing start
+2019-12-20 22:33:06 INFO  Logging:20 - runId=null
+2019-12-20 22:33:06 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:33:06 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:33:06 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202233006.xlsx
+2019-12-20 22:33:06 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202233006.xlsx is copied
+2019-12-20 22:34:46 INFO  Logging:20 - Automation testing start
+2019-12-20 22:34:46 INFO  Logging:20 - runId=null
+2019-12-20 22:34:46 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:34:46 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:34:46 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202234046.xlsx
+2019-12-20 22:34:46 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202234046.xlsx is copied
+2019-12-20 22:38:15 INFO  Logging:20 - Automation testing start
+2019-12-20 22:38:15 INFO  Logging:20 - runId=null
+2019-12-20 22:38:15 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:38:15 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:38:15 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202238015.xlsx
+2019-12-20 22:38:15 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202238015.xlsx is copied
+2019-12-20 22:49:03 INFO  Logging:20 - Automation testing start
+2019-12-20 22:49:03 INFO  Logging:20 - runId=null
+2019-12-20 22:49:03 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-20 22:49:03 INFO  Logging:20 - Project inin() -- End
+2019-12-20 22:49:03 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912202249003.xlsx
+2019-12-20 22:49:04 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912202249003.xlsx is copied
+2019-12-21 13:37:58 INFO  Logging:20 - Automation testing start
+2019-12-21 13:37:58 INFO  Logging:20 - runId=null
+2019-12-21 13:37:58 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 13:37:58 INFO  Logging:20 - Project inin() -- End
+2019-12-21 13:37:58 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912211337058.xlsx
+2019-12-21 13:37:58 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912211337058.xlsx is copied
+2019-12-21 13:53:34 INFO  Logging:20 - Automation testing start
+2019-12-21 13:53:34 INFO  Logging:20 - runId=null
+2019-12-21 13:53:34 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 13:53:34 INFO  Logging:20 - Project inin() -- End
+2019-12-21 13:53:34 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912211353034.xlsx
+2019-12-21 13:53:34 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912211353034.xlsx is copied
+2019-12-21 13:58:45 INFO  Logging:20 - Automation testing start
+2019-12-21 13:58:45 INFO  Logging:20 - runId=null
+2019-12-21 13:58:45 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 13:58:45 INFO  Logging:20 - Project inin() -- End
+2019-12-21 13:58:45 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912211358045.xlsx
+2019-12-21 13:58:45 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912211358045.xlsx is copied
+2019-12-21 21:00:46 INFO  Logging:20 - Automation testing start
+2019-12-21 21:00:46 INFO  Logging:20 - runId=null
+2019-12-21 21:00:46 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 21:00:46 INFO  Logging:20 - Project inin() -- End
+2019-12-21 21:00:46 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912212100046.xlsx
+2019-12-21 21:00:46 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912212100046.xlsx is copied
+2019-12-21 21:14:29 INFO  Logging:20 - Automation testing start
+2019-12-21 21:14:29 INFO  Logging:20 - runId=null
+2019-12-21 21:14:29 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 21:14:29 INFO  Logging:20 - Project inin() -- End
+2019-12-21 21:14:29 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912212114029.xlsx
+2019-12-21 21:14:29 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912212114029.xlsx is copied
+2019-12-21 21:17:29 INFO  Logging:20 - Automation testing start
+2019-12-21 21:17:29 INFO  Logging:20 - runId=null
+2019-12-21 21:17:29 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 21:17:29 INFO  Logging:20 - Project inin() -- End
+2019-12-21 21:17:29 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912212117029.xlsx
+2019-12-21 21:17:29 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912212117029.xlsx is copied
+2019-12-21 21:22:00 INFO  Logging:20 - Automation testing start
+2019-12-21 21:22:00 INFO  Logging:20 - runId=null
+2019-12-21 21:22:00 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 21:22:00 INFO  Logging:20 - Project inin() -- End
+2019-12-21 21:22:00 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912212122000.xlsx
+2019-12-21 21:22:00 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912212122000.xlsx is copied
+2019-12-21 21:43:26 INFO  Logging:20 - Automation testing start
+2019-12-21 21:43:26 INFO  Logging:20 - runId=null
+2019-12-21 21:43:26 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 21:43:26 INFO  Logging:20 - Project inin() -- End
+2019-12-21 21:43:26 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912212143026.xlsx
+2019-12-21 21:43:26 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912212143026.xlsx is copied
+2019-12-21 21:49:01 INFO  Logging:20 - Automation testing start
+2019-12-21 21:49:01 INFO  Logging:20 - runId=null
+2019-12-21 21:49:01 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 21:49:01 INFO  Logging:20 - Project inin() -- End
+2019-12-21 21:49:01 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912212149001.xlsx
+2019-12-21 21:49:01 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912212149001.xlsx is copied
+2019-12-21 22:01:33 INFO  Logging:20 - Automation testing start
+2019-12-21 22:01:33 INFO  Logging:20 - runId=null
+2019-12-21 22:01:33 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 22:01:33 INFO  Logging:20 - Project inin() -- End
+2019-12-21 22:01:33 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912212201033.xlsx
+2019-12-21 22:01:33 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912212201033.xlsx is copied
+2019-12-21 22:03:30 INFO  Logging:20 - Automation testing start
+2019-12-21 22:03:30 INFO  Logging:20 - runId=null
+2019-12-21 22:03:30 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-21 22:03:30 INFO  Logging:20 - Project inin() -- End
+2019-12-21 22:03:30 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912212203030.xlsx
+2019-12-21 22:03:30 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912212203030.xlsx is copied
+2019-12-23 20:01:21 INFO  Logging:20 - Automation testing start
+2019-12-23 20:01:21 INFO  Logging:20 - runId=null
+2019-12-23 20:01:21 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-23 20:01:21 INFO  Logging:20 - Project inin() -- End
+2019-12-23 20:01:21 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912232001021.xlsx
+2019-12-23 20:01:21 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912232001021.xlsx is copied
+2019-12-23 20:03:14 INFO  Logging:20 - Automation testing start
+2019-12-23 20:03:14 INFO  Logging:20 - runId=null
+2019-12-23 20:03:14 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-23 20:03:14 INFO  Logging:20 - Project inin() -- End
+2019-12-23 20:03:14 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912232003014.xlsx
+2019-12-23 20:03:14 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912232003014.xlsx is copied
+2019-12-23 20:04:57 INFO  Logging:20 - Automation testing start
+2019-12-23 20:04:57 INFO  Logging:20 - runId=null
+2019-12-23 20:04:57 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-23 20:04:57 INFO  Logging:20 - Project inin() -- End
+2019-12-23 20:04:57 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912232004057.xlsx
+2019-12-23 20:04:57 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912232004057.xlsx is copied
+2019-12-23 20:05:39 INFO  Logging:20 - Automation testing start
+2019-12-23 20:05:39 INFO  Logging:20 - runId=null
+2019-12-23 20:05:39 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-23 20:05:39 INFO  Logging:20 - Project inin() -- End
+2019-12-23 20:05:39 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912232005039.xlsx
+2019-12-23 20:05:39 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912232005039.xlsx is copied
+2019-12-23 20:12:06 INFO  Logging:20 - Automation testing start
+2019-12-23 20:12:06 INFO  Logging:20 - runId=null
+2019-12-23 20:12:06 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-23 20:12:06 INFO  Logging:20 - Project inin() -- End
+2019-12-23 20:12:06 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912232012006.xlsx
+2019-12-23 20:12:06 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912232012006.xlsx is copied
+2019-12-23 20:12:27 INFO  Logging:20 - Automation testing start
+2019-12-23 20:12:27 INFO  Logging:20 - runId=null
+2019-12-23 20:12:27 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-23 20:12:27 INFO  Logging:20 - Project inin() -- End
+2019-12-23 20:12:27 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912232012027.xlsx
+2019-12-23 20:12:27 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912232012027.xlsx is copied
+2019-12-23 20:15:58 INFO  Logging:20 - Automation testing start
+2019-12-23 20:15:58 INFO  Logging:20 - runId=null
+2019-12-23 20:15:58 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-23 20:15:58 INFO  Logging:20 - Project inin() -- End
+2019-12-23 20:15:58 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912232015058.xlsx
+2019-12-23 20:15:58 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912232015058.xlsx is copied
+2019-12-23 20:16:15 INFO  Logging:76 - runId: null
+2019-12-23 20:16:15 INFO  Logging:77 - suiteRunId:null
+2019-12-23 20:16:15 INFO  Logging:78 - caseRunId: null
+2019-12-23 20:16:15 INFO  Logging:20 - http://www.baidu.com
+2019-12-23 20:16:19 INFO  Logging:76 - runId: null
+2019-12-23 20:16:19 INFO  Logging:77 - suiteRunId:null
+2019-12-23 20:16:19 INFO  Logging:78 - caseRunId: null
+2019-12-23 20:16:19 INFO  Logging:20 - Input username and password.
+2019-12-23 20:16:24 ERROR Logging:36 - Login failed: Timed out after 5 seconds waiting for presence of element located by: By.id: userId
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'MS-20151227YBDF', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:53269}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir10048_23955}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.80, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: fbc5f933eb68a5747b00ad030ce2ebe3
+2019-12-23 20:19:00 INFO  Logging:20 - Automation testing start
+2019-12-23 20:19:00 INFO  Logging:20 - runId=null
+2019-12-23 20:19:00 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-23 20:19:00 INFO  Logging:20 - Project inin() -- End
+2019-12-23 20:19:00 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912232019000.xlsx
+2019-12-23 20:19:00 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912232019000.xlsx is copied
+2019-12-23 20:19:04 INFO  Logging:76 - runId: null
+2019-12-23 20:19:04 INFO  Logging:77 - suiteRunId:null
+2019-12-23 20:19:04 INFO  Logging:78 - caseRunId: null
+2019-12-23 20:19:04 INFO  Logging:20 - http://www.baidu.com
+2019-12-23 20:19:06 INFO  Logging:76 - runId: null
+2019-12-23 20:19:06 INFO  Logging:77 - suiteRunId:null
+2019-12-23 20:19:06 INFO  Logging:78 - caseRunId: null
+2019-12-23 20:19:06 INFO  Logging:20 - Input username and password.
+2019-12-23 20:19:11 ERROR Logging:36 - Login failed: Timed out after 5 seconds waiting for presence of element located by: By.id: userId
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'MS-20151227YBDF', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:53581}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir7420_25382}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.80, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: d1684a9f72d73edc1fa1493ec25566eb
+2019-12-24 20:48:56 INFO  Logging:20 - Automation testing start
+2019-12-24 20:48:56 INFO  Logging:20 - runId=null
+2019-12-24 20:48:56 INFO  Logging:20 - Current execution user account:Administrator
+2019-12-24 20:48:56 INFO  Logging:20 - Project inin() -- End
+2019-12-24 20:48:56 INFO  Logging:20 - Prepare test data:Output Log\resource/TestCase/TestCase_201912242048056.xlsx
+2019-12-24 20:48:56 INFO  Logging:20 - Output Log\resource/TestCase/TestCase_201912242048056.xlsx is copied
+2019-12-24 20:49:01 INFO  Logging:76 - runId: null
+2019-12-24 20:49:01 INFO  Logging:77 - suiteRunId:null
+2019-12-24 20:49:01 INFO  Logging:78 - caseRunId: null
+2019-12-24 20:49:01 INFO  Logging:20 - http://www.baidu.com
+2019-12-24 20:49:02 INFO  Logging:76 - runId: null
+2019-12-24 20:49:02 INFO  Logging:77 - suiteRunId:null
+2019-12-24 20:49:02 INFO  Logging:78 - caseRunId: null
+2019-12-24 20:49:02 INFO  Logging:20 - Input username and password.
+2019-12-24 20:49:08 ERROR Logging:36 - Login failed: Timed out after 5 seconds waiting for presence of element located by: By.id: userId
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'MS-20151227YBDF', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:50012}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir9552_10087}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.80, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 8b0bd6bd279950ec09ab25dd2495e76e
+2019-12-27 20:49:04 INFO  Logging:21 - Automation testing start
+2019-12-27 20:49:04 INFO  Logging:21 - runId=null
+2019-12-27 20:49:04 INFO  Logging:21 - Current execution user account:Administrator
+2019-12-27 20:49:04 INFO  Logging:21 - Project inin() -- End
+2019-12-27 20:49:04 INFO  Logging:21 - Prepare test data:Output Log\resource/TestCase/TestCase_201912272049004.xlsx
+2019-12-27 20:49:05 INFO  Logging:21 - Output Log\resource/TestCase/TestCase_201912272049004.xlsx is copied
+2019-12-27 20:49:11 INFO  Logging:77 - runId: null
+2019-12-27 20:49:11 INFO  Logging:78 - suiteRunId:null
+2019-12-27 20:49:11 INFO  Logging:79 - caseRunId: null
+2019-12-27 20:49:11 INFO  Logging:21 - http://www.baidu.com
+2019-12-27 20:49:11 INFO  Logging:77 - runId: null
+2019-12-27 20:49:11 INFO  Logging:78 - suiteRunId:null
+2019-12-27 20:49:11 INFO  Logging:79 - caseRunId: null
+2019-12-27 20:49:11 INFO  Logging:21 - Input username and password.
+2019-12-27 20:49:17 ERROR Logging:37 - Login failed: Timed out after 5 seconds waiting for presence of element located by: By.id: userId
+Build info: version: '2.53.1', revision: 'a36b8b1cd5757287168e54b817830adce9b0158d', time: '2016-06-30 19:26:09'
+System info: host: 'MS-20151227YBDF', ip: '192.168.1.2', os.name: 'Windows 7', os.arch: 'amd64', os.version: '6.1', java.version: '1.8.0_131'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, goog:chromeOptions={debuggerAddress=localhost:52536}, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.41.578737 (49da6702b16031c40d63e5618de03a32ff6c197e), userDataDir=C:\Users\ADMINI~1\AppData\Local\Temp\scoped_dir7180_31080}, takesHeapSnapshot=true, pageLoadStrategy=normal, databaseEnabled=false, handlesAlerts=true, version=75.0.3770.80, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]
+Session ID: 914313882291de77f32d8446a955fd02
+2019-12-27 21:02:37 INFO  Logging:22 - Automation testing start
+2019-12-27 21:02:37 INFO  Logging:22 - runId=null
+2019-12-27 21:02:37 INFO  Logging:22 - Current execution user account:Administrator
+2019-12-27 21:02:37 INFO  Logging:22 - Project inin() -- End
+2019-12-27 21:02:37 INFO  Logging:22 - Prepare test data:Output Log\resource/TestCase/TestCase_201912272102037.xlsx
+2019-12-27 21:02:37 INFO  Logging:22 - Output Log\resource/TestCase/TestCase_201912272102037.xlsx is copied
+2019-12-27 21:02:42 INFO  Logging:79 - runId: null
+2019-12-27 21:02:42 INFO  Logging:80 - suiteRunId:null
+2019-12-27 21:02:42 INFO  Logging:81 - caseRunId: null
+2019-12-27 21:02:42 INFO  Logging:22 - http://www.baidu.com
+2019-12-27 21:02:43 INFO  Logging:79 - runId: null
+2019-12-27 21:02:43 INFO  Logging:80 - suiteRunId:null
+2019-12-27 21:02:43 INFO  Logging:81 - caseRunId: null
+2019-12-27 21:02:43 INFO  Logging:22 - Input username and password.
+2019-12-27 21:05:28 INFO  Logging:22 - Automation testing start
+2019-12-27 21:05:28 INFO  Logging:22 - runId=null
+2019-12-27 21:05:28 INFO  Logging:22 - Current execution user account:Administrator
+2019-12-27 21:05:28 INFO  Logging:22 - Project inin() -- End
+2019-12-27 21:05:28 INFO  Logging:22 - Prepare test data:Output Log\resource/TestCase/TestCase_201912272105028.xlsx
+2019-12-27 21:05:28 INFO  Logging:22 - Output Log\resource/TestCase/TestCase_201912272105028.xlsx is copied
+2019-12-27 21:05:33 INFO  Logging:79 - runId: null
+2019-12-27 21:05:33 INFO  Logging:80 - suiteRunId:null
+2019-12-27 21:05:33 INFO  Logging:81 - caseRunId: null
+2019-12-27 21:05:33 INFO  Logging:22 - http://www.baidu.com
+2019-12-27 21:05:33 INFO  Logging:79 - runId: null
+2019-12-27 21:05:33 INFO  Logging:80 - suiteRunId:null
+2019-12-27 21:05:33 INFO  Logging:81 - caseRunId: null
+2019-12-27 21:05:33 INFO  Logging:22 - Input username and password.
+2019-12-27 21:07:29 INFO  Logging:22 - Automation testing start
+2019-12-27 21:07:29 INFO  Logging:22 - runId=null
+2019-12-27 21:07:29 INFO  Logging:22 - Current execution user account:Administrator
+2019-12-27 21:07:29 INFO  Logging:22 - Project inin() -- End
+2019-12-27 21:07:29 INFO  Logging:22 - Prepare test data:Output Log\resource/TestCase/TestCase_201912272107029.xlsx
+2019-12-27 21:07:29 INFO  Logging:22 - Output Log\resource/TestCase/TestCase_201912272107029.xlsx is copied
+2019-12-27 21:07:35 INFO  Logging:79 - runId: null
+2019-12-27 21:07:35 INFO  Logging:80 - suiteRunId:null
+2019-12-27 21:07:35 INFO  Logging:81 - caseRunId: null
+2019-12-27 21:07:35 INFO  Logging:22 - http://www.baidu.com
+2019-12-27 21:07:35 INFO  Logging:79 - runId: null
+2019-12-27 21:07:35 INFO  Logging:80 - suiteRunId:null
+2019-12-27 21:07:35 INFO  Logging:81 - caseRunId: null
+2019-12-27 21:07:35 INFO  Logging:22 - Input username and password.
+2019-12-27 21:07:44 INFO  Logging:79 - runId: null
+2019-12-27 21:07:44 INFO  Logging:80 - suiteRunId:null
+2019-12-27 21:07:44 INFO  Logging:81 - caseRunId: null
+2019-12-27 21:07:44 INFO  Logging:22 - http://www.baidu.com
+2019-12-27 21:07:44 INFO  Logging:79 - runId: null
+2019-12-27 21:07:44 INFO  Logging:80 - suiteRunId:null
+2019-12-27 21:07:44 INFO  Logging:81 - caseRunId: null
+2019-12-27 21:07:44 INFO  Logging:22 - Input username and password.
+2019-12-29 12:00:42 INFO  Logging:22 - Automation testing start
+2019-12-29 12:00:42 INFO  Logging:22 - runId=null
+2019-12-29 12:00:42 INFO  Logging:22 - Current execution user account:Administrator
+2019-12-29 12:00:42 INFO  Logging:22 - Project inin() -- End
+2019-12-29 12:00:42 INFO  Logging:22 - Prepare test data:Output Log\resource/TestCase/TestCase_201912291200042.xlsx
+2019-12-29 12:00:42 INFO  Logging:22 - Output Log\resource/TestCase/TestCase_201912291200042.xlsx is copied
+2019-12-29 12:00:48 INFO  Logging:79 - runId: null
+2019-12-29 12:00:48 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:00:48 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:00:48 INFO  Logging:22 - http://www.baidu.com
+2019-12-29 12:00:49 INFO  Logging:79 - runId: null
+2019-12-29 12:00:49 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:00:49 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:00:49 INFO  Logging:22 - Input username and password.
+2019-12-29 12:00:58 INFO  Logging:79 - runId: null
+2019-12-29 12:00:58 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:00:58 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:00:58 INFO  Logging:22 - http://www.baidu.com
+2019-12-29 12:00:58 INFO  Logging:79 - runId: null
+2019-12-29 12:00:58 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:00:58 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:00:58 INFO  Logging:22 - Input username and password.
+2019-12-29 12:04:07 INFO  Logging:22 - Automation testing start
+2019-12-29 12:04:07 INFO  Logging:22 - runId=null
+2019-12-29 12:04:07 INFO  Logging:22 - Current execution user account:Administrator
+2019-12-29 12:04:07 INFO  Logging:22 - Project inin() -- End
+2019-12-29 12:04:07 INFO  Logging:22 - Prepare test data:Output Log\resource/TestCase/TestCase_201912291204007.xlsx
+2019-12-29 12:04:07 INFO  Logging:22 - Output Log\resource/TestCase/TestCase_201912291204007.xlsx is copied
+2019-12-29 12:04:11 INFO  Logging:79 - runId: null
+2019-12-29 12:04:11 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:04:11 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:04:11 INFO  Logging:22 - http://www.baidu.com
+2019-12-29 12:04:12 INFO  Logging:79 - runId: null
+2019-12-29 12:04:12 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:04:12 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:04:12 INFO  Logging:22 - Input username and password.
+2019-12-29 12:04:20 INFO  Logging:79 - runId: null
+2019-12-29 12:04:20 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:04:20 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:04:20 INFO  Logging:22 - http://www.baidu.com
+2019-12-29 12:04:21 INFO  Logging:79 - runId: null
+2019-12-29 12:04:21 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:04:21 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:04:21 INFO  Logging:22 - Input username and password.
+2019-12-29 12:17:52 INFO  Logging:22 - Automation testing start
+2019-12-29 12:17:52 INFO  Logging:22 - runId=null
+2019-12-29 12:17:52 INFO  Logging:22 - Current execution user account:Administrator
+2019-12-29 12:17:52 INFO  Logging:22 - Project inin() -- End
+2019-12-29 12:17:52 INFO  Logging:22 - Prepare test data:Output Log\resource/TestCase/TestCase_201912291217052.xlsx
+2019-12-29 12:17:52 INFO  Logging:22 - Output Log\resource/TestCase/TestCase_201912291217052.xlsx is copied
+2019-12-29 12:17:58 INFO  Logging:79 - runId: null
+2019-12-29 12:17:58 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:17:58 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:17:58 INFO  Logging:22 - http://www.baidu.com
+2019-12-29 12:17:58 INFO  Logging:79 - runId: null
+2019-12-29 12:17:58 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:17:58 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:17:58 INFO  Logging:22 - Input username and password.
+2019-12-29 12:18:07 INFO  Logging:79 - runId: null
+2019-12-29 12:18:07 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:18:07 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:18:07 INFO  Logging:22 - http://www.baidu.com
+2019-12-29 12:18:07 INFO  Logging:79 - runId: null
+2019-12-29 12:18:07 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:18:07 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:18:07 INFO  Logging:22 - Input username and password.
+2019-12-29 12:19:26 INFO  Logging:22 - Automation testing start
+2019-12-29 12:19:26 INFO  Logging:22 - runId=null
+2019-12-29 12:19:26 INFO  Logging:22 - Current execution user account:Administrator
+2019-12-29 12:19:26 INFO  Logging:22 - Project inin() -- End
+2019-12-29 12:19:26 INFO  Logging:22 - Prepare test data:Output Log\resource/TestCase/TestCase_201912291219026.xlsx
+2019-12-29 12:19:26 INFO  Logging:22 - Output Log\resource/TestCase/TestCase_201912291219026.xlsx is copied
+2019-12-29 12:19:31 INFO  Logging:79 - runId: null
+2019-12-29 12:19:31 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:19:31 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:19:31 INFO  Logging:22 - http://www.baidu.com
+2019-12-29 12:19:31 INFO  Logging:79 - runId: null
+2019-12-29 12:19:31 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:19:31 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:19:31 INFO  Logging:22 - Input username and password.
+2019-12-29 12:19:40 INFO  Logging:79 - runId: null
+2019-12-29 12:19:40 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:19:40 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:19:40 INFO  Logging:22 - http://www.baidu.com
+2019-12-29 12:19:40 INFO  Logging:79 - runId: null
+2019-12-29 12:19:40 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:19:40 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:19:40 INFO  Logging:22 - Input username and password.
+2019-12-29 12:26:57 INFO  Logging:22 - Automation testing start
+2019-12-29 12:26:57 INFO  Logging:22 - runId=null
+2019-12-29 12:26:57 INFO  Logging:22 - Current execution user account:Administrator
+2019-12-29 12:26:57 INFO  Logging:22 - Project inin() -- End
+2019-12-29 12:26:57 INFO  Logging:22 - Prepare test data:Output Log\resource/TestCase/TestCase_201912291226057.xlsx
+2019-12-29 12:26:57 INFO  Logging:22 - Output Log\resource/TestCase/TestCase_201912291226057.xlsx is copied
+2019-12-29 12:27:02 INFO  Logging:79 - runId: null
+2019-12-29 12:27:02 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:27:02 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:27:02 INFO  Logging:22 - http://www.baidu.com
+2019-12-29 12:27:03 INFO  Logging:79 - runId: null
+2019-12-29 12:27:03 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:27:03 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:27:03 INFO  Logging:22 - Input username and password.
+2019-12-29 12:27:11 INFO  Logging:79 - runId: null
+2019-12-29 12:27:11 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:27:11 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:27:11 INFO  Logging:22 - http://www.baidu.com
+2019-12-29 12:27:12 INFO  Logging:79 - runId: null
+2019-12-29 12:27:12 INFO  Logging:80 - suiteRunId:null
+2019-12-29 12:27:12 INFO  Logging:81 - caseRunId: null
+2019-12-29 12:27:12 INFO  Logging:22 - Input username and password.
